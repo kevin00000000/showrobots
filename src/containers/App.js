@@ -33,14 +33,12 @@ class App extends Component{
         let filterRobots = robots.filter(robot => {
             return robot.name.toLowerCase().includes(searchField.toLowerCase())
         })
-        return isPending ?
-        (<h1>Loading</h1>):
-        (
+        return (
             <div className="tc">
                 <h1 className="f1">RoboFriends</h1>
                 <SearchField onSearchChange={this.onSearchChange} />
                 <Scroll>
-                    {error.length === 0 ? <CardList robots={filterRobots} /> : <h1>{error}</h1>}
+                    {isPending ? <h1>Loading</h1> : error.length === 0 ? <CardList robots={filterRobots} /> : <h1>{error}</h1>}
                 </Scroll>
             </div>
         )
