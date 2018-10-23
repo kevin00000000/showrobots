@@ -1,7 +1,7 @@
 {
   "main.css": "/showrobots/static/css/main.04d153cf.chunk.css",
-  "main.js": "/showrobots/static/js/main.6353029d.chunk.js",
-  "main.js.map": "/showrobots/static/js/main.6353029d.chunk.js.map",
+  "main.js": "/showrobots/static/js/main.67e15419.chunk.js",
+  "main.js.map": "/showrobots/static/js/main.67e15419.chunk.js.map",
   "static/css/1.551d64c7.chunk.css": "/showrobots/static/css/1.551d64c7.chunk.css",
   "static/js/1.09586ef9.chunk.js": "/showrobots/static/js/1.09586ef9.chunk.js",
   "static/js/1.09586ef9.chunk.js.map": "/showrobots/static/js/1.09586ef9.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/App.css": "/showrobots/static/media/SEGA.12a3db8b.woff",
   "static/css/main.04d153cf.chunk.css.map": "/showrobots/static/css/main.04d153cf.chunk.css.map",
   "index.html": "/showrobots/index.html",
-  "precache-manifest.d2bf4e84c8dbdbe0447f8946f7e48f1c.js": "/showrobots/precache-manifest.d2bf4e84c8dbdbe0447f8946f7e48f1c.js",
+  "precache-manifest.1cec60a8fd944282ce3ee79b8a13e1fa.js": "/showrobots/precache-manifest.1cec60a8fd944282ce3ee79b8a13e1fa.js",
   "service-worker.js": "/showrobots/service-worker.js"
 }
