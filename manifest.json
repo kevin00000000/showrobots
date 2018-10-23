@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Robot App",
+  "name": "ShowRobot",
   "icons": [
     {
       "src": "./icons/android-chrome-192x192.png",
@@ -8,12 +8,12 @@
       "type": "image/png"
     },
     {
-      "src": ".icons/android-chrome-512x512.png",
+      "src": "./icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": ".icons/apple-touch-icon.png",
+      "src": "./icons/apple-touch-icon.png",
       "sizes": "150x150",
       "type": "image/png"
     },
